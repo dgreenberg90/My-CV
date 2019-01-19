@@ -42,6 +42,10 @@ footer {
 	font-size: 0.8em
 }
 
+a:hover {
+	color: #EAF6F6;
+}
+
 /*****CLASS TAGS*****/
 
 .top-container {
